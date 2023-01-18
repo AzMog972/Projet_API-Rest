@@ -1,0 +1,36 @@
+2022-12-13 09:10:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-214]
+2022-12-13 09:10:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" WHERE "MESSAGE"."ID" = ? [42102-214]
+2022-12-13 09:11:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-214]
+2022-12-13 09:11:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-214]
+2022-12-13 09:11:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" WHERE "MESSAGE"."ID" = ? [42102-214]
+2022-12-13 09:12:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-214]
+2022-12-13 09:12:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" WHERE "MESSAGE"."ID" = ? [42102-214]
+2022-12-13 09:12:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" [42102-214]
+2022-12-13 09:12:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "MESSAGE" non trouvée
+Table "MESSAGE" not found; SQL statement:
+SELECT "MESSAGE"."ID" AS "ID", "MESSAGE"."TEXT" AS "TEXT" FROM "MESSAGE" WHERE "MESSAGE"."ID" = ? [42102-214]
